@@ -13,4 +13,5 @@ def product(x, y):
 def printing(x,y):
     print("The given numbers are %s,%s",x,y)
     
-
+def printingx(x,y):
+    print("printing x",x)
