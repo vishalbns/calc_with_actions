@@ -1,3 +1,3 @@
 # calc_with_actions
 
-testing actions
+testing actions function
