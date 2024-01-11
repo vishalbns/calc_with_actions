@@ -10,3 +10,7 @@ def subtract(x, y):
 def product(x, y):
     print("The sum of the two numbers = ", x * y)
 
+def printing(x,y):
+    print("The given numbers are %s,%s",x,y)
+    
+
